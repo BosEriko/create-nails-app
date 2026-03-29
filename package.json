@@ -1,6 +1,6 @@
 {
-  "name": "create-nails-app",
-  "version": "2.1.0",
+  "name": "create-nails",
+  "version": "1.0.0",
   "bin": {
     "create-nails-app": "index.js"
   },
