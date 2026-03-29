@@ -1,0 +1,10 @@
+{
+  "name": "create-nails-app",
+  "version": "2.1.0",
+  "bin": {
+    "create-nails-app": "index.js"
+  },
+  "dependencies": {
+    "degit": "^2.8.6"
+  }
+}
